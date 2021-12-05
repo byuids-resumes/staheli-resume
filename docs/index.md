@@ -84,7 +84,7 @@ __Community religion group project__
 
 ### Knowledge, Skills
 
-Computer Languages
+__Computer Languages__
  
 - HTML, CSS, and JavaScript
 - MySQL
