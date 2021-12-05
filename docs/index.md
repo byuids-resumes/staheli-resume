@@ -16,71 +16,80 @@ Computer Science student at Brigham Young Univeristy of Idaho.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
-
+- Bachelor of Science in Computer Science
+- Relevant courses: Data Science Programming, Programming with Functions, Web Frontend Development
 
 ## Related Experience
 
-### Internships
+### Experience
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`August 2020 - Present`
+__Edge Analytical – Accounting Clerk__, Burlington, WA
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+_Chemistry lab that primarily tests water and soil. I work in the accounting and human resources departments._
 
-### Data Science Lead
+- Handled accounts payable invoices and statements by entering them into accounting software, paying them via credit card or check, and correctly filing them according to vendor name and type
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+- Managed year end storage of files to ensure an ease of availability when files may be needed
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Made a successful filing system for employee folders with consistent filing and labels
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+- Handled employee documents by uploading them to human resources software and filing them
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+- Aided in process of employee onboarding and termination
 
-### Data Science Consulting Team
+- Organized offices to facilitate workflow by providing systems that arranged tasks
 
-`January 2027 - April 2027`
-__Imagine Learning__
+- Created standard operating procedure (SOPs) to ensure consistency of tasks and organization
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Redesigned human resources forms to enable efficient reading and writing of information needed
 
 
-## Service and Work History
+`May 2017 - August 2018`
+__Panera Bread – Associate__, Burlington, WA
 
-`2025-2027`
-__Math Tutor__, LDSBC
+- Learned customer service and cashier duties that help with presentation skills and working under pressure
 
+- Prepared a variety of food items in accordance with the standard company menu, allowed development of skill in following instructions and quick learning
 
-`2023-2025`
-__Service Missionary__, South Africa
+### Activities, Honors
 
+`June 2018`
+__Honors Society__
 
+- High school club that provides academic recognition and leadership for students
+
+`June 2018`
+__Torch__
+
+- Top 70 students with highest GPAs
+
+`June 2018`
+__Distinguished Scholar__
+
+- Students with a GPA of 4.0 or higher
+
+`December 2018`
+__Student of the Month__
+
+- Award given to high school students, where a speech is given by the student of the month
+
+`Febuary 2018`
+__Community religion group project__
+
+- Group of different religions that came together to discuss religion and create a mural for a wall downtown
+
+### Knowledge, Skills
+
+Computer Languages
+ 
+- HTML, CSS, and JavaScript
+- MySQL
+- Python 
+- R
 
 <!-- ### Footer
 
