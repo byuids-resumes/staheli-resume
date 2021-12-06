@@ -6,10 +6,10 @@ title: Samantha Staheli's Resume
 Computer Science student at Brigham Young Univeristy of Idaho.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="sta18011@byui.edu">sta18011@byui.edu</a>
+| <a href="https://byuidatascience.github.io/development.html">Computer Science Program</a>
+| <a href="https://www.linkedin.com/in/samantha-staheli-8aba76177">LinkedIn</a>
+| <a href="https://github.com/samanthastaheli">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
