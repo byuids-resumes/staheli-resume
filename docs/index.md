@@ -7,7 +7,7 @@ Computer Science student at Brigham Young Univeristy of Idaho.
 
 <div id="webaddress">
 <a href="sta18011@byui.edu">sta18011@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Computer Science Program</a>
+| <a href="https://www.byui.edu/catalog/#/courses?group=Computer%20Science">Computer Science Program</a>
 | <a href="https://www.linkedin.com/in/samantha-staheli-8aba76177">LinkedIn</a>
 | <a href="https://github.com/samanthastaheli">GitHub</a>
 </div>
